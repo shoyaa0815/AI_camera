@@ -1,3 +1,9 @@
+This project is my AI color recognition camera code for microbit gigo
+
+Hardware
+- microbit
+- GIGO blocks
+- GIGO AI camera
 
 > Open this page at [https://shoyaa0815.github.io/ai_camera/](https://shoyaa0815.github.io/ai_camera/)
 
